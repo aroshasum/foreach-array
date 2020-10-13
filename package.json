@@ -1,0 +1,28 @@
+{
+  "name": "foreach-array",
+  "version": "1.0.1",
+  "description": "Provides a simple interface to iterate through a given array, avoiding some common errors such as, Uncaught TypeError: parent.children.forEach is not a function. Similar interface to Array.prototype.forEach",
+  "license": "Apache",
+  "repository": "aroshasum/foreach-array",
+  "main": "./src/foreach-array.js",
+  "directories": {
+    "lib": "src"
+  },
+  "keywords": [
+    "foreach-array",
+    "foreach array",
+    "array-foreach",
+    "array foreach",
+    "array iteration",
+    "iteration",
+    "array foreach equivalent",
+    "npm",
+    "package",
+    "aroshasum"
+  ],
+  "homepage" : "https://github.com/aroshasum/foreach-array",
+  "author": {
+    "name"      : "Arosha Sumanaweera",
+    "email"     : "arosha2007@gmail.com"
+  }
+}
